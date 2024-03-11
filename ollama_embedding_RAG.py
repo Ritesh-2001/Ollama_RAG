@@ -2,7 +2,7 @@
 '''
 First download ollama form ollama.com/download and then start it by running the ollama.setup.exe file
 Before executing notebook, do following in cmd
-entering virtual environment by call ollama_test/Scripts/activate and then python ollama_embedding_RAG.py in cmd
+enter virtual environment then type python ollama_embedding_RAG.py in cmd
 ollama pull llama2
 ollama pull mistral
 ollama pull nomic-embed-text
